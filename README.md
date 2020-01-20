@@ -10,4 +10,4 @@ The goal of this course is to provide the viewer with solid understanding of Sta
 
 At the top of each page of notes is a link to the course, and at the bottom is a link to related resources.
 
-This is a public resource, so feel free to add and update or further clarify.
+This is a public resource, so feel free to add, update, or further clarify.
