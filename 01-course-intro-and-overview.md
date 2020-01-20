@@ -28,6 +28,8 @@ Now, we are ready to follow along with the course.
 
 **Resources**
 
+[Creating a package.json file](https://docs.npmjs.com/creating-a-package-json-file)
+
 [More information on State Machines from the instructor](https://kyleshevlin.com/tags/state-machines)
 
 [State Machines Podcast from Syntax](https://syntax.fm/show/206/state-machines-css-and-animations-with-david-k-piano)
