@@ -27,5 +27,7 @@ Finally, in your project folder, create an "index.js" file. This file will conta
 Now, we are ready to follow along with the course.
 
 **Resources**
+
 [More information on State Machines from the instructor](https://kyleshevlin.com/tags/state-machines)
+
 [State Machines Podcast from Syntax](https://syntax.fm/show/206/state-machines-css-and-animations-with-david-k-piano)
