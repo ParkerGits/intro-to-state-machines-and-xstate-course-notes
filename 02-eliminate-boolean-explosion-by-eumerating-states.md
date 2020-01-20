@@ -36,6 +36,7 @@ He shows us, however, that it is easy to get into an "impossible state," in this
 ```
 node index.js
 -> { isLit: true, isBroken: true }
+```
 The first solution he enacts in his code is a "guard" against this impossible state by both guaranteeing
 that the "isLit" boolean is false when "isBroken" is true and returning this state early:
 ```js
